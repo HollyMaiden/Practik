@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.Деньги" id="98968e9b-859b-4491-b1cf-956ced3474d0" configVersion="2a19d89cc71c95438d8178aebc5d274c00000000">
+			<Metadata name="AccumulationRegister.Деньги.Resource.Сумма" id="f9f12c8a-a328-4fdd-a3dc-237bec64c11f"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.ОстаткиПродуктов" id="c7b74049-d3d5-4f25-a5b8-6198892741a7" configVersion="bb09bfbd3819444e94dd968abaf9025300000000">
+			<Metadata name="AccumulationRegister.ОстаткиПродуктов.Dimension.Товар" id="2124f97a-8c75-4273-93b0-23b8b3577eea"/>
+			<Metadata name="AccumulationRegister.ОстаткиПродуктов.Resource.Колво" id="a234cdc9-a652-4856-95ae-9eeeb083bf20"/>
+		</Metadata>
+		<Metadata name="Catalog.Ингридиенты" id="13ca66a5-3583-4311-afa5-9ad2cc685f81" configVersion="690c1e361984ee489edac898639d75bd00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="6914ab6b-e132-412c-ac00-0b4679fb77aa" configVersion="f3252a73984afe47b173fd76c75eaaab00000000"/>
+		<Metadata name="Document.Бургер" id="971b28f0-6e18-45e9-a91b-00070e5e8a2b" configVersion="11953295d518ee459396a007ad519bf700000000">
+			<Metadata name="Document.Бургер.TabularSection.ТабличнаяЧасть1.Attribute.КолвоВГраммах" id="26ebe978-2c07-4468-b680-ea2c0c840911"/>
+			<Metadata name="Document.Бургер.Attribute.Цена" id="2834287c-830e-4c4f-9a12-c3686fc265d5"/>
+			<Metadata name="Document.Бургер.Attribute.КолвоЗаДень" id="2dd4a634-b041-4c35-818a-1279e2c991db"/>
+			<Metadata name="Document.Бургер.TabularSection.ТабличнаяЧасть1.Attribute.Ингридиент" id="642d3ed0-0d55-40ca-95d1-8448a0f5f812"/>
+			<Metadata name="Document.Бургер.TabularSection.ТабличнаяЧасть1" id="dc10db9d-4f8a-4d35-958c-38f42852f232"/>
+			<Metadata name="Document.Бургер.TabularSection.ТабличнаяЧасть1.Attribute.КолвоВГраммахВсего" id="e03eb371-bb2b-4471-b474-76bfae793c61"/>
+			<Metadata name="Document.Бургер.Attribute.СуммаЗаДень" id="ebbf1706-b2e0-4b87-986e-0a871cb629e3"/>
+		</Metadata>
+		<Metadata name="Document.Бургер.Form.ФормаДокумента" id="e781e3ce-22ee-4d8d-ae84-41a6c9e6fe83" configVersion="ed992bec815a6e429bb47fb3e27bd22900000000"/>
+		<Metadata name="Document.Бургер.Form.ФормаДокумента.Form" id="e781e3ce-22ee-4d8d-ae84-41a6c9e6fe83.0" configVersion="aa890a91c752164aa64a5bbe0eea9d2300000000"/>
+		<Metadata name="Document.Бургер.ObjectModule" id="971b28f0-6e18-45e9-a91b-00070e5e8a2b.0" configVersion="725f44a317018646a49552c47a1c343900000000"/>
+		<Metadata name="Document.КартофельФри" id="76bbc089-ae66-45f8-99f4-816f68ede0a3" configVersion="ae00523b8ef3f24a93a22f1304421a6900000000">
+			<Metadata name="Document.КартофельФри.TabularSection.ТабличнаяЧасть1.Attribute.КолвоВГраммах" id="1d6fb0ca-00d3-415e-8e8b-30e7ab583021"/>
+			<Metadata name="Document.КартофельФри.TabularSection.ТабличнаяЧасть1.Attribute.КолвоВГраммахВсего" id="42310692-954b-4ce3-b851-3748fb80e530"/>
+			<Metadata name="Document.КартофельФри.Attribute.КолвоЗаДень" id="43948528-3705-4552-b6eb-54f67efb30b0"/>
+			<Metadata name="Document.КартофельФри.TabularSection.ТабличнаяЧасть1.Attribute.Ингридиент" id="5679dfd2-d8fb-4e1b-8ebd-db5eae7822dd"/>
+			<Metadata name="Document.КартофельФри.TabularSection.ТабличнаяЧасть1" id="72a2c40a-5d31-447e-a330-6d2a729413da"/>
+			<Metadata name="Document.КартофельФри.Attribute.Цена" id="87f53e68-5a50-491a-97ec-8a31663d01fb"/>
+			<Metadata name="Document.КартофельФри.Attribute.СуммаЗаДень" id="a1216f8a-152e-4075-b03c-388fe28f2315"/>
+		</Metadata>
+		<Metadata name="Document.КартофельФри.Form.ФормаДокумента" id="471c8bab-50b0-4f25-a6e3-9973fe5cf5e9" configVersion="2ef6a42f4230e448bcd8b74845ed45a600000000"/>
+		<Metadata name="Document.КартофельФри.Form.ФормаДокумента.Form" id="471c8bab-50b0-4f25-a6e3-9973fe5cf5e9.0" configVersion="958c92a0398c1349970f3fdc1ef9222a00000000"/>
+		<Metadata name="Document.КартофельФри.Form.ФормаДокумента.Help" id="471c8bab-50b0-4f25-a6e3-9973fe5cf5e9.1" configVersion="384dd96c75cc2948a6ee52000c41212600000000"/>
+		<Metadata name="Document.КартофельФри.Help" id="76bbc089-ae66-45f8-99f4-816f68ede0a3.1" configVersion="b002d2bf7758bf4485da82f81797f5eb00000000"/>
+		<Metadata name="Document.КартофельФри.ManagerModule" id="76bbc089-ae66-45f8-99f4-816f68ede0a3.2" configVersion="cc786cf762c1f741a225f73cff47f0ac00000000"/>
+		<Metadata name="Document.КартофельФри.ObjectModule" id="76bbc089-ae66-45f8-99f4-816f68ede0a3.0" configVersion="91499e82741adc459541e7c0e113e0db00000000"/>
+		<Metadata name="Document.Наггетсы" id="e2203c11-4f15-49b4-8c6e-5e74f48a2a8b" configVersion="1f0b3615dcaca54fa6b9ae64674f5acc00000000">
+			<Metadata name="Document.Наггетсы.TabularSection.ТабличнаяЧасть1.Attribute.КолвоВГраммах" id="078ce2ee-d54d-4909-8cf7-be2571a66b5d"/>
+			<Metadata name="Document.Наггетсы.TabularSection.ТабличнаяЧасть1.Attribute.Ингридиент" id="1de7010d-bf09-4e4c-89c3-ed43c230bd85"/>
+			<Metadata name="Document.Наггетсы.Attribute.КолвоЗаДень" id="56dc889d-d690-473e-b8c5-d342b29e7c91"/>
+			<Metadata name="Document.Наггетсы.Attribute.СуммаЗаДень" id="5f1d805f-f6bf-4907-adba-62a8990f34f4"/>
+			<Metadata name="Document.Наггетсы.TabularSection.ТабличнаяЧасть1.Attribute.КолвоВГраммахВсего" id="7823b766-03b6-4f90-af1b-3045dfb487a2"/>
+			<Metadata name="Document.Наггетсы.TabularSection.ТабличнаяЧасть1" id="b58da0ca-8dfa-4752-84d2-c674e9656a39"/>
+			<Metadata name="Document.Наггетсы.Attribute.Цена" id="c2206707-266d-455e-bc3e-4e5aa90c5475"/>
+		</Metadata>
+		<Metadata name="Document.Наггетсы.Form.ФормаДокумента" id="bc75bb0d-3c81-4696-a7d2-d3b7d664786f" configVersion="7f1e295ce6fbc547bfdffcadc96bc99000000000"/>
+		<Metadata name="Document.Наггетсы.Form.ФормаДокумента.Form" id="bc75bb0d-3c81-4696-a7d2-d3b7d664786f.0" configVersion="7f521b760b58df479e2ea46ecc127c1100000000"/>
+		<Metadata name="Document.Наггетсы.Form.ФормаДокумента.Help" id="bc75bb0d-3c81-4696-a7d2-d3b7d664786f.1" configVersion="ae5202c1827b804c921e3b74b770ae6b00000000"/>
+		<Metadata name="Document.Наггетсы.Help" id="e2203c11-4f15-49b4-8c6e-5e74f48a2a8b.1" configVersion="0a87a0c3bf19864fa3f720f9fccd7a2500000000"/>
+		<Metadata name="Document.Наггетсы.ManagerModule" id="e2203c11-4f15-49b4-8c6e-5e74f48a2a8b.2" configVersion="f59ebac69cb0004eb563fba2b98d3ccb00000000"/>
+		<Metadata name="Document.Наггетсы.ObjectModule" id="e2203c11-4f15-49b4-8c6e-5e74f48a2a8b.0" configVersion="b1b1e8cc6ac5354188479af92cdb6fed00000000"/>
+		<Metadata name="Document.ПокупкаПродуктов" id="dc9fcaff-7070-4312-9fd3-f7729513c29c" configVersion="d28783cbd96aee4ca3dc0c0f17a2bec200000000">
+			<Metadata name="Document.ПокупкаПродуктов.TabularSection.ТабличнаяЧасть1.Attribute.КолвоВГраммах" id="89614790-df78-4a60-a301-00108527d440"/>
+			<Metadata name="Document.ПокупкаПродуктов.TabularSection.ТабличнаяЧасть1.Attribute.ЦенаЗаЕдиницу" id="8de4524b-a7c7-4384-bece-60c67323905b"/>
+			<Metadata name="Document.ПокупкаПродуктов.TabularSection.ТабличнаяЧасть1.Attribute.Ингридиент" id="953b53d3-5e75-4547-8dd4-8d10aa95c713"/>
+			<Metadata name="Document.ПокупкаПродуктов.TabularSection.ТабличнаяЧасть1" id="c870f412-a2f5-45ea-bc71-bcf04487f995"/>
+			<Metadata name="Document.ПокупкаПродуктов.TabularSection.ТабличнаяЧасть1.Attribute.Сумма" id="cf52c5c1-04b7-4144-8a5d-990813aff0f1"/>
+		</Metadata>
+		<Metadata name="Document.ПокупкаПродуктов.Form.ФормаДокумента" id="dfee94b4-261a-4648-9890-848f2a860722" configVersion="c64e45adf7757e469f2b1c397b46f58800000000"/>
+		<Metadata name="Document.ПокупкаПродуктов.Form.ФормаДокумента.Form" id="dfee94b4-261a-4648-9890-848f2a860722.0" configVersion="65a3715ed3f2d2489d5304f07b66a9fe00000000"/>
+		<Metadata name="Document.ПокупкаПродуктов.ObjectModule" id="dc9fcaff-7070-4312-9fd3-f7729513c29c.0" configVersion="826b23ce98d75d4fa58d7f7d969a3e1b00000000"/>
+		<Metadata name="Language.Русский" id="07a42321-2956-457d-89ea-8631377575fd" configVersion="cf42022f91a8b04ebf2e00e5c70ccadd00000000"/>
+		<Metadata name="Report.Отчет" id="96998685-36fb-491b-a00d-68e46c247d0d" configVersion="1fd71e933e4ce8409cb8b3877f998a9c00000000"/>
+		<Metadata name="Report.Отчет.Template.ОсновнаяСхемаКомпоновкиДанных" id="92ab8326-88d4-4904-af4f-eeab89bc463b" configVersion="8c761fa038365c459aa8019122a6c6a400000000"/>
+		<Metadata name="Report.Отчет.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="92ab8326-88d4-4904-af4f-eeab89bc463b.0" configVersion="f5a39e453dc0ac4c8a89f687a4f796ee00000000"/>
+		<Metadata name="Report.Прибыль" id="324cd41d-89fd-4690-84ab-9c7653222cf9" configVersion="2e74da7038414c4f911396bd56c79a9900000000"/>
+		<Metadata name="Report.Прибыль.Template.ОсновнаяСхемаКомпоновкиДанных" id="eb14f387-75d9-4ab2-b27f-a5774fe8bc0e" configVersion="e8d73052cc51bd41951630c3aa7296eb00000000"/>
+		<Metadata name="Report.Прибыль.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="eb14f387-75d9-4ab2-b27f-a5774fe8bc0e.0" configVersion="d7dc5d6aa29fb4419e11316631b6722900000000"/>
+		<Metadata name="Role.Администратор" id="5e7df617-36b0-4770-9f8a-267d5472842b" configVersion="77dd16ab9620b646ab697baa5db7518f00000000"/>
+		<Metadata name="Role.Администратор.Rights" id="5e7df617-36b0-4770-9f8a-267d5472842b.0" configVersion="d67c66ec1c66a44fa8f9cbe9c9c71c9800000000"/>
+		<Metadata name="Role.Пользователь" id="7c041bf3-5467-41ce-bda7-773a4485e8d1" configVersion="60da0172786a6e4d88e6b9b4f3d5de5100000000"/>
+		<Metadata name="Role.Пользователь.Rights" id="7c041bf3-5467-41ce-bda7-773a4485e8d1.0" configVersion="b1a97ae6062a7e40bd432d65b4581af900000000"/>
+		<Metadata name="Subsystem.Отчеты" id="67d40127-fdcf-4488-8990-64c5a4ba0d89" configVersion="6efc2d03260f5d40ad1e5ced5983b59b00000000"/>
+		<Metadata name="Subsystem.ПриходныеНакладные" id="a92f3257-63e4-41da-bac6-86e724ad0522" configVersion="6795a9f07ad803459e7edd663966ec0600000000"/>
+		<Metadata name="Subsystem.ПроданныеБлюдаЗаДень" id="a8660029-caf5-4e73-ae01-fde4ff1ec44c" configVersion="80d936ecd7cb8b4eb8eca08e3a528d2f00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
