@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.10">
-	<AccumulationRegister uuid="27600a69-4917-49e9-94de-edb452f7543b">
+	<AccumulationRegister uuid="0fcb32f7-d665-4747-abc5-0a9a66856a3c">
 		<InternalInfo>
 			<xr:GeneratedType name="AccumulationRegisterRecord.Доход" category="Record">
-				<xr:TypeId>7c7bc65c-a594-4481-b98e-ab20488fe6fe</xr:TypeId>
-				<xr:ValueId>69a87797-b627-4fda-80e8-0ead30e97fce</xr:ValueId>
+				<xr:TypeId>c9d60ffa-ef35-4be0-aac5-778f59ed326a</xr:TypeId>
+				<xr:ValueId>129743b4-5650-439f-848d-4847672be5d7</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="AccumulationRegisterManager.Доход" category="Manager">
-				<xr:TypeId>0ec4d30e-c4f0-4e5e-bf50-9fcb9694980e</xr:TypeId>
-				<xr:ValueId>5ca3c8f7-66d4-4961-b250-6850c4718176</xr:ValueId>
+				<xr:TypeId>257641b8-e553-466b-95d7-a8832906dc80</xr:TypeId>
+				<xr:ValueId>1a365236-37d6-4e60-8472-78f95adcad2c</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="AccumulationRegisterSelection.Доход" category="Selection">
-				<xr:TypeId>969c89d6-8452-41c4-8cc0-a31599b6c697</xr:TypeId>
-				<xr:ValueId>07685e6c-b59a-4a00-af75-7f4bb2d92e51</xr:ValueId>
+				<xr:TypeId>1fbacf3b-a8bc-4e11-83cc-a404904eba03</xr:TypeId>
+				<xr:ValueId>6ea844e1-b252-4b02-bda9-cd5b004e0039</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="AccumulationRegisterList.Доход" category="List">
-				<xr:TypeId>817b38e8-1575-45ca-864e-3ed690bc2102</xr:TypeId>
-				<xr:ValueId>d3f17ab1-a05f-465c-b61f-d013ce8f5994</xr:ValueId>
+				<xr:TypeId>61f0d815-ad57-4f01-8369-8691c0fd6e75</xr:TypeId>
+				<xr:ValueId>f23226a9-91e2-45fd-b15c-740750f79c74</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="AccumulationRegisterRecordSet.Доход" category="RecordSet">
-				<xr:TypeId>5ea909ab-3674-4566-a2c0-9f26f9ca7dab</xr:TypeId>
-				<xr:ValueId>d8eb56e7-62e1-4a67-9479-5996046406aa</xr:ValueId>
+				<xr:TypeId>3893af6f-5210-4c8b-8838-9cdb5b8942ae</xr:TypeId>
+				<xr:ValueId>a74002d0-7847-4a99-8cc3-c319814e6a7d</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="AccumulationRegisterRecordKey.Доход" category="RecordKey">
-				<xr:TypeId>8f0a740c-b482-4b62-a092-e465c6df2131</xr:TypeId>
-				<xr:ValueId>ef59dd21-b62a-4a87-9f8c-964aa50bd6c2</xr:ValueId>
+				<xr:TypeId>0a4b07df-4b85-4979-9588-f12b04ec9585</xr:TypeId>
+				<xr:ValueId>7cec0c42-4e42-4119-be59-dc36c1c27c06</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -49,7 +49,7 @@
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="f9bb64a8-3ad6-4a42-822d-0373326d165c">
+			<Resource uuid="37e45fdd-36f6-4a0e-8900-365a55585ed0">
 				<Properties>
 					<Name>Доход</Name>
 					<Synonym>
@@ -62,7 +62,7 @@
 					<Type>
 						<v8:Type>xs:decimal</v8:Type>
 						<v8:NumberQualifiers>
-							<v8:Digits>10</v8:Digits>
+							<v8:Digits>27</v8:Digits>
 							<v8:FractionDigits>0</v8:FractionDigits>
 							<v8:AllowedSign>Any</v8:AllowedSign>
 						</v8:NumberQualifiers>

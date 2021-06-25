@@ -1,38 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.10">
-	<AccumulationRegister uuid="b6bfa1ed-cb3a-47fe-98b7-ec060a062d75">
+	<AccumulationRegister uuid="4ad723f5-b067-481a-b2fe-b2aff6e6303e">
 		<InternalInfo>
-			<xr:GeneratedType name="AccumulationRegisterRecord.Остатки" category="Record">
-				<xr:TypeId>ee791fb2-be75-437c-93b7-821783138b8e</xr:TypeId>
-				<xr:ValueId>f978f53a-5e8a-42fd-a914-a883124f9cce</xr:ValueId>
+			<xr:GeneratedType name="AccumulationRegisterRecord.Билетики" category="Record">
+				<xr:TypeId>b41333a0-5972-44ac-9ac4-bb740d9e606b</xr:TypeId>
+				<xr:ValueId>64031549-2420-4636-9e4c-91775807d494</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterManager.Остатки" category="Manager">
-				<xr:TypeId>22a6c94b-4ad7-49dc-b769-3a13fa5da00e</xr:TypeId>
-				<xr:ValueId>181d7709-902c-4cf8-aafc-cf21df5de42f</xr:ValueId>
+			<xr:GeneratedType name="AccumulationRegisterManager.Билетики" category="Manager">
+				<xr:TypeId>06d1fac4-028f-4852-9825-8e424f3b7993</xr:TypeId>
+				<xr:ValueId>cf08f521-2605-4c63-bdf7-b386e366960d</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterSelection.Остатки" category="Selection">
-				<xr:TypeId>e7cf4948-da40-4356-8ae4-5b978014b349</xr:TypeId>
-				<xr:ValueId>fee5f9a5-3aef-464d-9dcf-af7b65be2661</xr:ValueId>
+			<xr:GeneratedType name="AccumulationRegisterSelection.Билетики" category="Selection">
+				<xr:TypeId>0c6f65ff-192c-4dae-a06e-e1bdfd4c9975</xr:TypeId>
+				<xr:ValueId>338c3a2d-ce4d-4794-a822-2909b0bf6a43</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterList.Остатки" category="List">
-				<xr:TypeId>d0e41626-57e9-4e2c-9cd2-bbfbcc34db15</xr:TypeId>
-				<xr:ValueId>56d8aa21-1965-49fe-a291-7e570fa742e7</xr:ValueId>
+			<xr:GeneratedType name="AccumulationRegisterList.Билетики" category="List">
+				<xr:TypeId>055a8a63-a538-4bed-abfa-ada09ef76db6</xr:TypeId>
+				<xr:ValueId>b8e98b77-d560-4059-9abd-3d9c36251e97</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterRecordSet.Остатки" category="RecordSet">
-				<xr:TypeId>e8050216-d479-4680-8a8a-ddec474ef54f</xr:TypeId>
-				<xr:ValueId>fa1ff9f4-0fcf-4d44-af8f-3252d11a0aac</xr:ValueId>
+			<xr:GeneratedType name="AccumulationRegisterRecordSet.Билетики" category="RecordSet">
+				<xr:TypeId>fe7b5dc7-72d1-4d1a-ab81-7bcbbd612768</xr:TypeId>
+				<xr:ValueId>2381bbff-e410-49d9-865c-c6aaedf61ddc</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterRecordKey.Остатки" category="RecordKey">
-				<xr:TypeId>2cc12ccb-97d9-4dfc-8e7c-22883fa94f05</xr:TypeId>
-				<xr:ValueId>6554b3ca-8ffb-4ccc-8f7f-58c2e26f44c0</xr:ValueId>
+			<xr:GeneratedType name="AccumulationRegisterRecordKey.Билетики" category="RecordKey">
+				<xr:TypeId>d46906aa-b94e-435f-9018-bfb5adabde6f</xr:TypeId>
+				<xr:ValueId>7d9fa4d3-c122-4b4d-b706-d28e2a263f15</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Остатки</Name>
+			<Name>Билетики</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Остатки</v8:content>
+					<v8:content>Билетики</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -49,7 +49,7 @@
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="48e364d1-c975-4cdf-a32e-9f83ebfc1a80">
+			<Resource uuid="fb32e9dc-0ee8-4471-aebe-794ad62c69b3">
 				<Properties>
 					<Name>Количество</Name>
 					<Synonym>
@@ -62,7 +62,7 @@
 					<Type>
 						<v8:Type>xs:decimal</v8:Type>
 						<v8:NumberQualifiers>
-							<v8:Digits>10</v8:Digits>
+							<v8:Digits>15</v8:Digits>
 							<v8:FractionDigits>0</v8:FractionDigits>
 							<v8:AllowedSign>Any</v8:AllowedSign>
 						</v8:NumberQualifiers>
@@ -89,18 +89,62 @@
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Resource>
-			<Dimension uuid="22167fa9-46a3-42d4-9c7c-7e235df30727">
+			<Resource uuid="641402ee-a549-48c5-900a-dad8be4c7f95">
 				<Properties>
-					<Name>Номенклатура</Name>
+					<Name>Цена</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Номенклатура</v8:content>
+							<v8:content>Цена</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Номенклатура</v8:Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>17</v8:Digits>
+							<v8:FractionDigits>0</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<FullTextSearch>Use</FullTextSearch>
+				</Properties>
+			</Resource>
+			<Dimension uuid="19acba33-ef1a-4cbc-995d-396aa3a995b1">
+				<Properties>
+					<Name>Фильмы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Фильмы</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>15</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>

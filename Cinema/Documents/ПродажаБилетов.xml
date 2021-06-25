@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.10">
-	<Document uuid="c55c1914-b5c7-4bc4-b399-0b3db8f3d885">
+	<Document uuid="1f85f94a-bb75-4b9e-b0e0-6c87429fd2e0">
 		<InternalInfo>
-			<xr:GeneratedType name="DocumentObject.ПриходнаяНоменклатура" category="Object">
-				<xr:TypeId>250b0886-d923-4fe8-85f1-f9c6e9948927</xr:TypeId>
-				<xr:ValueId>f7db6a7a-c854-4142-9b70-3f73d10b9562</xr:ValueId>
+			<xr:GeneratedType name="DocumentObject.ПродажаБилетов" category="Object">
+				<xr:TypeId>46b2c3ff-864f-4702-a656-f7676d6626eb</xr:TypeId>
+				<xr:ValueId>c9cfdd4b-00ba-4f63-83b4-cf0b9dbb27b6</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentRef.ПриходнаяНоменклатура" category="Ref">
-				<xr:TypeId>3edf7e3a-f1e2-429d-befb-d71b85926a0a</xr:TypeId>
-				<xr:ValueId>8f0ea7e5-0f53-4d3e-a2e4-f989b6e1877b</xr:ValueId>
+			<xr:GeneratedType name="DocumentRef.ПродажаБилетов" category="Ref">
+				<xr:TypeId>87977db4-f25d-456c-bbd9-f7916d446cf7</xr:TypeId>
+				<xr:ValueId>d32fd0c6-c7aa-4d7d-9bd2-9ac82134604e</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentSelection.ПриходнаяНоменклатура" category="Selection">
-				<xr:TypeId>52d896b4-cf06-43c6-be0d-9f26bf022ffc</xr:TypeId>
-				<xr:ValueId>d7a8206a-2e42-4d53-be85-2323c552e432</xr:ValueId>
+			<xr:GeneratedType name="DocumentSelection.ПродажаБилетов" category="Selection">
+				<xr:TypeId>fc81a324-3338-4494-ae68-c7ba9e3a7577</xr:TypeId>
+				<xr:ValueId>37a27b86-57a1-4ebc-897c-082f71431888</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentList.ПриходнаяНоменклатура" category="List">
-				<xr:TypeId>7f9fe89b-54d5-46e1-b740-d658d041d315</xr:TypeId>
-				<xr:ValueId>dad7c821-9e4e-49c4-a23b-b4a5ec9ecc49</xr:ValueId>
+			<xr:GeneratedType name="DocumentList.ПродажаБилетов" category="List">
+				<xr:TypeId>a9f3f695-3d47-4d3b-a110-58d1afd4fece</xr:TypeId>
+				<xr:ValueId>11abb22f-a20b-42c9-8617-25028807be8e</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentManager.ПриходнаяНоменклатура" category="Manager">
-				<xr:TypeId>d9511c94-24fb-416a-8ffd-f2ef080af1bd</xr:TypeId>
-				<xr:ValueId>e3f77098-8f39-47fc-b866-cf05432d8daf</xr:ValueId>
+			<xr:GeneratedType name="DocumentManager.ПродажаБилетов" category="Manager">
+				<xr:TypeId>89c0a21c-917f-4958-a1c4-cf0c85da0ef0</xr:TypeId>
+				<xr:ValueId>b2a2b006-014c-4503-9ae5-3da6b84891f9</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ПриходнаяНоменклатура</Name>
+			<Name>ПродажаБилетов</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Приходная номенклатура</v8:content>
+					<v8:content>Продажа билетов</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -43,13 +43,13 @@
 			<Characteristics/>
 			<BasedOn/>
 			<InputByString>
-				<xr:Field>Document.ПриходнаяНоменклатура.StandardAttribute.Number</xr:Field>
+				<xr:Field>Document.ПродажаБилетов.StandardAttribute.Number</xr:Field>
 			</InputByString>
 			<CreateOnInput>Use</CreateOnInput>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm/>
+			<DefaultObjectForm>Document.ПродажаБилетов.Form.ФормаДокумента</DefaultObjectForm>
 			<DefaultListForm/>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
@@ -62,7 +62,7 @@
 			<SequenceFilling>AutoFill</SequenceFilling>
 			<RegisterRecords>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Доход</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Остатки</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Билетики</xr:Item>
 			</RegisterRecords>
 			<PostInPrivilegedMode>true</PostInPrivilegedMode>
 			<UnpostInPrivilegedMode>true</UnpostInPrivilegedMode>
@@ -81,42 +81,38 @@
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<TabularSection uuid="887e15fa-0420-4047-be7a-87b65c920094">
+			<Form>ФормаДокумента</Form>
+			<TabularSection uuid="5de94489-63c6-47f3-ba97-e9e6bb1f441d">
 				<InternalInfo>
-					<xr:GeneratedType name="DocumentTabularSection.ПриходнаяНоменклатура.Накладная" category="TabularSection">
-						<xr:TypeId>25e721bd-0e52-4771-bb87-46927632e72e</xr:TypeId>
-						<xr:ValueId>75c9f1be-9455-400c-ae17-99688525fd94</xr:ValueId>
+					<xr:GeneratedType name="DocumentTabularSection.ПродажаБилетов.ТабличнаяЧасть1" category="TabularSection">
+						<xr:TypeId>a1501ec2-6e22-4caa-ba1a-75459b272157</xr:TypeId>
+						<xr:ValueId>ab1c6a98-d618-44d5-9196-b714e3637243</xr:ValueId>
 					</xr:GeneratedType>
-					<xr:GeneratedType name="DocumentTabularSectionRow.ПриходнаяНоменклатура.Накладная" category="TabularSectionRow">
-						<xr:TypeId>7ba86fa0-13ac-4d3f-84c0-64313b5f021f</xr:TypeId>
-						<xr:ValueId>6141dc9b-f1d0-4566-833f-ed8c88817ce9</xr:ValueId>
+					<xr:GeneratedType name="DocumentTabularSectionRow.ПродажаБилетов.ТабличнаяЧасть1" category="TabularSectionRow">
+						<xr:TypeId>bec01c04-282e-4305-be53-770f40b2b68d</xr:TypeId>
+						<xr:ValueId>fc5635ae-a0f1-4fdb-9828-d1ecdbd4b39d</xr:ValueId>
 					</xr:GeneratedType>
 				</InternalInfo>
 				<Properties>
-					<Name>Накладная</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Накладная</v8:content>
-						</v8:item>
-					</Synonym>
+					<Name>ТабличнаяЧасть1</Name>
+					<Synonym/>
 					<Comment/>
 					<ToolTip/>
 					<FillChecking>DontCheck</FillChecking>
 				</Properties>
 				<ChildObjects>
-					<Attribute uuid="3b752576-c1e1-4ccc-936b-d8d97dfa3555">
+					<Attribute uuid="4b1b3624-c4cf-465b-9cc8-fe6bdf8ada7b">
 						<Properties>
-							<Name>Номенклатура</Name>
+							<Name>Фильмы</Name>
 							<Synonym>
 								<v8:item>
 									<v8:lang>ru</v8:lang>
-									<v8:content>Номенклатура</v8:content>
+									<v8:content>Фильмы</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
 							<Type>
-								<v8:Type>cfg:CatalogRef.Номенклатура</v8:Type>
+								<v8:Type>cfg:CatalogRef.Фильмы</v8:Type>
 							</Type>
 							<PasswordMode>false</PasswordMode>
 							<Format/>
@@ -142,49 +138,7 @@
 							<DataHistory>Use</DataHistory>
 						</Properties>
 					</Attribute>
-					<Attribute uuid="034be718-8daa-4733-9663-79128b18f444">
-						<Properties>
-							<Name>Цена</Name>
-							<Synonym>
-								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Цена</v8:content>
-								</v8:item>
-							</Synonym>
-							<Comment/>
-							<Type>
-								<v8:Type>xs:decimal</v8:Type>
-								<v8:NumberQualifiers>
-									<v8:Digits>10</v8:Digits>
-									<v8:FractionDigits>0</v8:FractionDigits>
-									<v8:AllowedSign>Any</v8:AllowedSign>
-								</v8:NumberQualifiers>
-							</Type>
-							<PasswordMode>false</PasswordMode>
-							<Format/>
-							<EditFormat/>
-							<ToolTip/>
-							<MarkNegatives>false</MarkNegatives>
-							<Mask/>
-							<MultiLine>false</MultiLine>
-							<ExtendedEdit>false</ExtendedEdit>
-							<MinValue xsi:nil="true"/>
-							<MaxValue xsi:nil="true"/>
-							<FillChecking>DontCheck</FillChecking>
-							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks/>
-							<ChoiceParameters/>
-							<QuickChoice>Auto</QuickChoice>
-							<CreateOnInput>Auto</CreateOnInput>
-							<ChoiceForm/>
-							<LinkByType/>
-							<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-							<Indexing>DontIndex</Indexing>
-							<FullTextSearch>Use</FullTextSearch>
-							<DataHistory>Use</DataHistory>
-						</Properties>
-					</Attribute>
-					<Attribute uuid="5583d727-d1b9-4ea0-bb7f-ca030a53332b">
+					<Attribute uuid="f280ed18-f6cd-4e88-8543-6d97c53ed301">
 						<Properties>
 							<Name>Количество</Name>
 							<Synonym>
@@ -197,7 +151,7 @@
 							<Type>
 								<v8:Type>xs:decimal</v8:Type>
 								<v8:NumberQualifiers>
-									<v8:Digits>10</v8:Digits>
+									<v8:Digits>15</v8:Digits>
 									<v8:FractionDigits>0</v8:FractionDigits>
 									<v8:AllowedSign>Any</v8:AllowedSign>
 								</v8:NumberQualifiers>
@@ -226,20 +180,62 @@
 							<DataHistory>Use</DataHistory>
 						</Properties>
 					</Attribute>
-					<Attribute uuid="070cab0b-61de-495c-befc-137db03f85cb">
+					<Attribute uuid="8bd961be-a666-4cc2-bb92-8da36bc92293">
 						<Properties>
-							<Name>Сумма</Name>
+							<Name>Цена</Name>
 							<Synonym>
 								<v8:item>
 									<v8:lang>ru</v8:lang>
-									<v8:content>Сумма</v8:content>
+									<v8:content>Цена</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
 							<Type>
 								<v8:Type>xs:decimal</v8:Type>
 								<v8:NumberQualifiers>
-									<v8:Digits>10</v8:Digits>
+									<v8:Digits>15</v8:Digits>
+									<v8:FractionDigits>0</v8:FractionDigits>
+									<v8:AllowedSign>Any</v8:AllowedSign>
+								</v8:NumberQualifiers>
+							</Type>
+							<PasswordMode>false</PasswordMode>
+							<Format/>
+							<EditFormat/>
+							<ToolTip/>
+							<MarkNegatives>false</MarkNegatives>
+							<Mask/>
+							<MultiLine>false</MultiLine>
+							<ExtendedEdit>false</ExtendedEdit>
+							<MinValue xsi:nil="true"/>
+							<MaxValue xsi:nil="true"/>
+							<FillChecking>DontCheck</FillChecking>
+							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+							<ChoiceParameterLinks/>
+							<ChoiceParameters/>
+							<QuickChoice>Auto</QuickChoice>
+							<CreateOnInput>Auto</CreateOnInput>
+							<ChoiceForm/>
+							<LinkByType/>
+							<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+							<Indexing>DontIndex</Indexing>
+							<FullTextSearch>Use</FullTextSearch>
+							<DataHistory>Use</DataHistory>
+						</Properties>
+					</Attribute>
+					<Attribute uuid="d1c2d8b9-11ab-4b7b-9f66-087eba0a08ac">
+						<Properties>
+							<Name>ОбщийДоход</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Общий доход</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<Type>
+								<v8:Type>xs:decimal</v8:Type>
+								<v8:NumberQualifiers>
+									<v8:Digits>15</v8:Digits>
 									<v8:FractionDigits>0</v8:FractionDigits>
 									<v8:AllowedSign>Any</v8:AllowedSign>
 								</v8:NumberQualifiers>
